@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+h2,
+h3 {
+  text-align: center;
+  color: blueviolet;
+}
+h4 {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+.class-sunone {
+  font-size: 100 px;
+  color: green;
+  text-align: left;
+}
+.weather-search-form {
+  margin-bottom: 300px;
+}
+.weather-app {
+  border: 1px solid;
+  border-color: black;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  background-color: rosybrown;
+}

@@ -5,7 +5,7 @@ h1 {
 h2,
 h3 {
   text-align: center;
-  color: blueviolet;
+  color: white;
 }
 h4 {
   color: red;
@@ -16,7 +16,7 @@ h5 {
   text-align: center;
 }
 h6 {
-  font-size: x-small;
+  font-size: 15x;
   color: white;
 
   margin-top: 200px;
@@ -27,7 +27,7 @@ h6 {
   text-align: left;
 }
 .weather-search-form {
-  margin-bottom: 300px;
+  margin-bottom: 200px;
 }
 .weather-app {
   border: 1px solid;
@@ -36,7 +36,7 @@ h6 {
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
-  background-color: rosybrown;
+  background-color: rgb(238, 157, 157);
 }
 .weather-forecast {
   margin-top: 50px;
@@ -45,10 +45,10 @@ h6 {
 }
 .weather-forecastdate {
   font-size: 13px;
-  opacity: 0.5;
+  opacity: 1;
 }
 .weather-forcast-temperatures-minimum {
-  opacity: 0.5;
+  opacity: 1;
 }
 .weather-forecast-temperatures {
   font-size: 13px;

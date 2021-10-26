@@ -7,11 +7,7 @@ h3 {
   text-align: center;
   color: white;
 }
-h4 {
-  color: red;
-  font-size: 30px;
-  text-align: center;
-}
+
 h5 {
   text-align: center;
 }
@@ -20,6 +16,11 @@ h6 {
   color: white;
 
   margin-top: 200px;
+}
+.city-info {
+  color: red;
+  font-size: 30px;
+  text-align: center;
 }
 .class-sunone {
   font-size: 100 px;
